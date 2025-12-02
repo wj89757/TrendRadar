@@ -2,14 +2,14 @@
 google
 gemini
 
+浙江
 杭州
+上海
 旅游
 
 ai
 !gai
 人工智能
 
-iphone
-ipad
-mac
-ios
+小红书
+抖音
